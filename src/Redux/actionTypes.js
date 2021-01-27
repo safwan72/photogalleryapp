@@ -1,0 +1,2 @@
+export const PICSLOADING='PICSLOADING';
+export const PICSLOADED='PICSLOADED';
