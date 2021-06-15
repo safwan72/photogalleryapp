@@ -1,0 +1,25 @@
+{
+  "feedbacks": [
+    {
+      "aname": "safwan",
+      "anumber": "01739783322",
+      "acomment": "safwan is cool",
+      "acheck": false,
+      "id": 1
+    },
+    {
+      "aname": "safwan",
+      "anumber": "01739783322",
+      "acomment": "sdaadssad",
+      "acheck": true,
+      "id": 2
+    },
+    {
+      "aname": "safwan",
+      "anumber": "2121142",
+      "acomment": "Hello Bohubrihi",
+      "acheck": true,
+      "id": 3
+    }
+  ]
+}
